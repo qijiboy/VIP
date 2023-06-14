@@ -52,7 +52,8 @@ ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie
   ```text
   https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/task/AllinOne.json
   ```
-
+==========一键安装青龙====================================
+wget -q https://raw.githubusercontents.com/qijiboy/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
 ### Summary
 
 - [BoxJs: Sub-Links](./QX/BoxJs#readme)  
